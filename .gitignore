@@ -1,0 +1,28 @@
+# ===== Java / Spring Boot =====
+SpringAI-backendtarget/
+SpringAI-backend/.classpath
+SpringAI-backend/.project
+SpringAI-backend/.settings/
+*.log
+*.class
+*.jar
+*.war
+*.iml
+
+# ===== Node / React =====
+spring-ai-react/node_modules/
+spring-ai-react/build/
+spring-ai-react/.env
+spring-ai-react/.DS_Store
+
+# ===== IDE / Editor =====
+*.swp
+*.swo
+*.idea/
+*.vscode/
+.DS_Store
+
+# ===== OS / Misc =====
+Thumbs.db
+ehthumbs.db
+.env
